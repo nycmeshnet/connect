@@ -1,22 +1,11 @@
 ---
-title: "NYC Mesh"
+title: "NYC Mesh Connect"
 description: "Join our community-owned network"
-images: ["/img/3d.png"]
-alertTitle: "Network status updates"
-alertURL: "https://status.nycmesh.net/"
+images: [""]
 ---
 
-## Join our community network!
+## NYC Mesh Connect!
 
-### <a href="/join" class="blue">Get Connected</a> for reliable community-owned internet
-
-### <a href="/support" class="green">Get Support</a> to quickly fix problems!
-
-### <a href="/volunteer" class="blue">Volunteer</a> to help build our network
-
-### <a href="/donate" class="green">Donate</a> to help us expand
-
-### <a href="/building" class="orange">Connect your whole building</a> with our dedicated team
 
 The Internet is central to our lives, but in New York City far too many people don’t have access.
 
