@@ -4,10 +4,13 @@ title: "NYC Mesh Community Network Rate Card"
 
 ## NYC MESH MEMBERSHIP OFFERINGS (MONTH-TO-MONTH PLAN)
 
-NYC Mesh Internet  	
-$20.00 Optional Donation  
-$50.00 Optional Donation  
-$100.00 Optional Donation  (business)
+NYC Mesh Internet monthly plans
+
+Speeds 100Mb to 850gigabit (depending on location)	
+
+$30.00 standard
+$10.00 sliding scale
+$100.00 business
 
 ## OTHER CHARGES AND TERMS
  
@@ -23,7 +26,7 @@ Volunteer led install $290 (standard) or $160 (subsidized)
  
 ## PERFORMANCE: INDIVIDUAL EXPERIENCE MAY VARY
 
-Speeds vary due to distance from our main antennas, type of connection (point to point, multipoint, fiber). Wireless connection speeds vary considerably. NYC Mesh uses best-effort for speed and support.
+Speeds vary between 100 Mbps and 850 Gbps (symmetrical) depending on the type of connection (wireless or fiber). NYC Mesh uses best-effort for speed and support.
 
 ## Network Management:  
 NYC Mesh is a neutral network and it does not have any network management practices that are specific to any application or subscriber.
