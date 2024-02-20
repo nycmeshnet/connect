@@ -6,7 +6,7 @@ title: "NYC Mesh Community Network Rate Card"
 
 NYC Mesh Internet monthly plans
 
-Speeds 100Mb to 850gigabit (depending on location)	
+Speeds 100 Mb to 8500 Mb symmetrical (depending on location)	
 
 $30.00 standard
 $10.00 sliding scale
@@ -26,7 +26,7 @@ Volunteer led install $290 (standard) or $160 (subsidized)
  
 ## PERFORMANCE: INDIVIDUAL EXPERIENCE MAY VARY
 
-Speeds vary between 100 Mbps and 850 Gbps (symmetrical) depending on the type of connection (wireless or fiber). NYC Mesh uses best-effort for speed and support.
+Speeds vary between 100 Mb to 8500 Mb symmetrical depending on the type of connection (wireless or fiber). NYC Mesh uses best-effort for speed and support.
 
 ## Network Management:  
 NYC Mesh is a neutral network and it does not have any network management practices that are specific to any application or subscriber.
