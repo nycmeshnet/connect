@@ -31,14 +31,14 @@ Speeds vary between 100 Mb to 8500 Mb symmetrical depending on the type of conne
 ## Network Management:  
 NYC Mesh Connect is a neutral network and it does not have any network management practices that are specific to any application or subscriber.
 
-Additional information on network management can be found in NYC Mesh Connects's Network Commons License- [nycmesh.net/ncl.pdf](../ncl.pdf) 
+Additional information on network management can be found in NYC Mesh Connects's Network Commons License- [nycmesh.net/ncl.pdf](nycmesh.net/ncl.pdf) 
 
 ## Privacy Policy:  
-We are a neutral network and we do not monitor, collect, store or block any user data or content. More information about our commitment to privacy is available in our privacy policy- [nycmesh.net/privacy-policy](../privacy-policy)
+We are a neutral network and we do not monitor, collect, store or block any user data or content. More information about our commitment to privacy is available in our privacy policy- [nycmesh.net/privacy-policy](nycmesh.net/privacy-policy)
  
 ## Support:
 
-https://www.nycmesh.net/support
+[https://www.nycmesh.net/support](https://www.nycmesh.net/support)
 
 ## FCC Resources
 Learn more about the terms used on this form and other relevant information at the following FCC's links:  
