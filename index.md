@@ -1,21 +1,43 @@
 ---
 title: "NYC Mesh Connect"
-description: "Join our community-owned network"
+description: "Connecting NYC "
 images: [""]
 ---
 
 ## NYC Mesh Connect! 
+# 🌐 Welcome to NYC Mesh Connect
 
-NYC Mesh Connect is a wholly-owned subsidiary of [NYC Mesh](https://nycmesh.net)
+**Fast, Reliable Internet. Friendly, Local Support.**
 
-We offer high speed internet connections for very low cost. See our [rate-card](/rate-card)
+Why we make staying online simple — and stress-free. Whether you need help with a new internet connection or help fixing a tech issue, our team is here to keep you connected to what matters most. For mamagement companies, we can do technical support for the tenants of your buildings.
 
-The Internet is central to our lives, but in New York City far too many people don’t have access.
+---
 
-We are a diverse group of volunteers and contractors dedicated to ending the digital divide and extending  high-speed, reliable internet to all New Yorkers. You can help by joining our community network to get online, volunteering to connect neighbors or grow the network, and donating to improve our community infrastructure and ensure access for all.
+## ⚡ Get Connected
 
-NYC Mesh is a neutral network and we do not monitor, collect, store or block any user data or content. By joining our network you agree to extend it to others!
+- **Quick Installations** – Get online in no time with same-week setup.
+- **Future-Ready Tech** – We use modern, high-speed equipment for a stable connection.
 
-We can connect your apartment to the internet by putting an antenna on the roof of your building and running a cable to your apartment.
+---
 
-We can also connect your whole building using fiber with speeds of 10 gigabit or more. Ask us about fiber to the home (FTTH). We are currently working with NYCHA and HPD on multiple large projects.
+## 🛠 Tech Support You Can Trust
+
+- **Friendly Local Experts** – Real people who actually pick up the phone.
+- **Fast Troubleshooting** – We diagnose and fix most problems remotely or same-day on-site.
+- **Ongoing Care** – We monitor connections and keep your system running smoothly.
+
+---
+
+## 💛 Why Choose Us
+
+- No confusing contracts or hidden fees  
+- Transparent pricing and clear communication  
+- A community-driven approach — we’re your neighbors, not just your provider
+
+---
+
+## 📞 Let’s Get You Online
+
+Ready to experience stress-free internet?  
+**[Contact NYC Mesh Connect Today →](#)**  (212) 477-0866
+We’ll get you connected — and keep you connected.
