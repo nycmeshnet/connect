@@ -1,5 +1,5 @@
 ---
-title: "NYC Mesh Connect"
+title: "connect"
 description: "Connecting NYC "
 images: [""]
 ---
